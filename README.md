@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Taylor 👋🏽
 
-<!--
-**taylorlshank/taylorlshank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Linux System Administrator with hands-on experience in:
+- Linux administration (RHEL/CentOS)
+- VMware vSphere
+- Ansible automation
+- Server patching & hardening
+- Infrastructure documentation
 
-Here are some ideas to get you started:
+### 🔧 Featured Project
+- **SysAdmin Ticket Log** – Real-world infrastructure and automation tickets  
+  👉 [View Portfolio](https://github.com/YOURUSERNAME/sysadmin-ticket-log)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- Infrastructure automation with Ansible
+- System hardening & security best practices
+- Preparing for RHCE & Security+
+
+📍 Charlotte, NC

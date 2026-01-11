@@ -9,7 +9,7 @@ I’m a Linux System Administrator with hands-on experience in:
 
 ### 🔧 Featured Project
 - **SysAdmin Ticket Log** – Real-world infrastructure and automation tickets  
-  👉 [View Portfolio](https://github.com/taylorlshank/sysadmin-ticket-log)
+### 👉 [View Portfolio](https://github.com/taylorlshank/sysadmin-ticket-log)
 
 ### 🎯 Current Focus
 - Infrastructure automation with Ansible

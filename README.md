@@ -1,6 +1,6 @@
 ## Hi, I’m Taylor 👋🏽
 
-I’m a Linux System Administrator with hands-on experience in:
+I’m a RHCSA-certified Linux System Administrator with hands-on experience in:
 - Linux administration (RHEL/CentOS)
 - VMware vSphere
 - Ansible automation
@@ -66,5 +66,4 @@ I’m a Linux System Administrator with hands-on experience in:
 ### 🎓 Certifications
 
 ![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?logo=redhat&logoColor=white)
-![Security+](https://img.shields.io/badge/Security%2B-ED1C24?logo=comptia&logoColor=white)
 ![AWS Cloud Quest](https://img.shields.io/badge/AWS_Cloud_Quest-232F3E?logo=amazonaws&logoColor=white)
